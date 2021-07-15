@@ -1,13 +1,3 @@
-<!--
- * @Author: linhuaqing
- * @Date: 2021-07-06 20:25:16
- * @LastEditTime: 2021-07-06 21:02:23
- * @LastEditors: linhuaqing@bytedance.com
- * @Description: 
- * @FilePath: /golang-algorithm/find_repeat_number/title.md
- * stay hungry stay foolish
--->
-
 ## 找出数组中重复的数字
 
 
